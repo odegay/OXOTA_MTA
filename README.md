@@ -1,0 +1,2 @@
+# OXOTA_MTA
+OXOTA.KZ GTA MTA Server
